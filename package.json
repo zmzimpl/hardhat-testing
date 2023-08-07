@@ -1,0 +1,24 @@
+{
+  "name": "hardhat-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmzimpl/hardhat-testing.git"
+  },
+  "keywords": [
+    "hardhat",
+    "fork",
+    "test"
+  ],
+  "author": "zmzimpl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zmzimpl/hardhat-testing/issues"
+  },
+  "homepage": "https://github.com/zmzimpl/hardhat-testing#readme"
+}
